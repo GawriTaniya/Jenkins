@@ -1,8 +1,8 @@
 package com.taniya;
-public class First Job
+public class Hello World
 {   
       public static void main(String[] args)
       {       
-         System.out.println("This is my first job");   
+         System.out.println("Hello World");   
       }
 } 
