@@ -1,8 +1,8 @@
 package com.taniya;
-public class HelloWorld
+public class First Job
 {   
       public static void main(String[] args)
       {       
-         System.out.println("Hello gist @ GitHub!");   
+         System.out.println("This is my first job");   
       }
 } 
